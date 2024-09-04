@@ -1,7 +1,7 @@
 /* Parallax */
 .parallax {
     /* Coloca a imagem no background */
-    background-image: url("img/maotech.png");
+    background-image: url("maotech.png");
 
     /* Faz com que a imagem fique parada */
     background-attachment: fixed;
